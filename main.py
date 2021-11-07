@@ -4,7 +4,10 @@ nombre = "pablo"
 año = 2021
 print(f"{texto} - {nombre} - {año}")
 
+def funcion():
+    print("Hola")
 
+funcion()
 
 
 
